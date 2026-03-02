@@ -1,4 +1,4 @@
-
+// name : abdulahad ; etea :5124772
 #include <iostream>
 using namespace std;
 int main()
@@ -12,12 +12,13 @@ cin >> age;   // INOUT FROM USER
 cout << "Do you have an ID card? (Y/N):"; 
 cin >> hasId;
 
-if(age >=18 && hasId=='Y'){    //USED IF FOR CONDITION
+if(age >=18 && hasId=='Y'){    // IF CONDITION ha agr dono true hon gi to if ki body show ho gi user ko
 	cout << "You can enter" <<endl;  //DISPLAY
 }
-else {    
+else { //nhi to else ki body show ho gi   
 	cout<<"Entry not allowed";
 }
 
 return 0;
 }
+
