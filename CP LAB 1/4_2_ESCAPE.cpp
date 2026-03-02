@@ -1,4 +1,4 @@
-    
+    // name : abdulahad ; etea :5124772
   
 #include <iostream>// allow standard names like "cout and cin" without std::
 using namespace std; // allow standard names like "cout and cin" without std::
@@ -10,4 +10,5 @@ int main()// it is sttarting point of program
     cout << "I am programming \r enthusiast!";
     return 0;   // indicate that program ended successfully
     } // end function main
+
 
