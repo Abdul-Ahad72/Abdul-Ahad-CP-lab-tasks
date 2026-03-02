@@ -1,4 +1,4 @@
-
+// name : abdulahad ; etea :5124772
 #include <iostream>
 using namespace std; 
 
@@ -36,4 +36,5 @@ int main()
     return 0;   // indicate that program ended successfully
     
     } // end function main
+
 
