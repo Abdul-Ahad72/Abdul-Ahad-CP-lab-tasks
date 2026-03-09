@@ -1,7 +1,13 @@
+// Name: Abdul Ahad
+// Department: Electrical Engineering (AI)
+// Registration No: BF25NWELE0692
+// Section: B
 
-#include <iostream>
+
+
+#include <iostream>// header file
 using namespace std;
-int main()
+int main() // start of function 
     {
 int q; // q decelare kiya ha
 while(q<=10){// while ma condition lagai ha
@@ -11,5 +17,6 @@ while(q<=10){// while ma condition lagai ha
 }
 
 
-return 0;
+return 0; // function end
 }
+
