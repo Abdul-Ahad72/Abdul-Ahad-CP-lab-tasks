@@ -1,3 +1,11 @@
+// Name: Abdul Ahad
+// Department: Electrical Engineering (AI)
+// Registration No: BF25NWELE0692
+// Section: B
+
+
+
+
 #include <iostream>
 using namespace std;
 int main()
@@ -15,4 +23,5 @@ sum += q;
 q++;	
 }
 cout<<"sum from 1 to :"	<< e <<" is "<<sum; // output show kara ga
+
 }
