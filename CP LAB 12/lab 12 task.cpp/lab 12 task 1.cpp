@@ -1,3 +1,8 @@
+// Name: Abdul Ahad
+// Department: Electrical Engineering (AI)
+// Registration No: BF25NWELE0692
+// Section: B
+
 #include <iostream>     // tells the compiler to include input output stream library
 using namespace std;    // tells he compiler to use standard namespace std for each cin and cout
 
